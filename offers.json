@@ -1,0 +1,103 @@
+[
+    {
+      "company": "Say It",
+      "name": "Python Developer",
+      "city": "szczecin",
+      "language": "python",
+      "experience": "junior",
+      "salarymin": "3",
+      "salarymax": "6"
+
+    },
+    {
+      "company": "Sayo it",
+      "name": "Javascript Developer",
+      "city": "szczecin",
+      "language": "javascript",
+      "experience": "senior",
+      "salarymin": "19",
+      "salarymax": "25"
+    },
+    {
+      "company": "Con",
+      "name": "HTML Developer",
+      "city": "poznan",
+      "language": "html",
+      "experience": "mid",
+      "salarymin": "9",
+      "salarymax": "13"
+    },
+    {
+      "company": "Let",
+      "name": "Ruby Developer",
+      "city": "trojmiasto",
+      "language": "ruby",
+      "experience": "junior",
+      "salarymin": "3",
+      "salarymax": "6"
+    },
+    {
+      "company": "Go",
+      "name": "Python Developer",
+      "city": "krakow",
+      "language": "python",
+      "experience": "mid",
+      "salarymin": "11",
+      "salarymax": "13"
+    },
+    {
+      "company": "Name",
+      "name": "Net Developer",
+      "city": "trojmiasto",
+      "language": "net",
+      "experience": "junior",
+      "salarymin": "3",
+      "salarymax": "6"
+    },
+    {
+      "company": "What",
+      "name": "Scala Developer",
+      "city": "krakow",
+      "language": "scala",
+      "experience": "senior",
+      "salarymin": "18",
+      "salarymax": "21"
+    },
+    {
+      "company": "Des",
+      "name": "Ruby Developer",
+      "city": "wroclaw",
+      "language": "ruby",
+      "experience": "junior",
+      "salarymin": "3",
+      "salarymax": "8"
+    },
+    {
+      "company": "Hello",
+      "name": "C Developer",
+      "city": "krakow",
+      "language": "c",
+      "experience": "mid",
+      "salarymin": "9",
+      "salarymax": "14"
+    },
+    {
+      "company": "Uno",
+      "name": "C Developer",
+      "city": "wroclaw",
+      "language": "c",
+      "experience": "senior",
+      "salarymin": "17",
+      "salarymax": "20"
+
+    },
+    {
+      "company": "It",
+      "name": "C Developer",
+      "city": "szczecin",
+      "language": "c",
+      "experience": "junior",
+      "salarymin": "4",
+      "salarymax": "6"
+    }
+  ]
